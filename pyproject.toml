@@ -8,7 +8,9 @@ version = "1.2.0"
 description = "Inventory Linux command usage across repositories"
 readme = "README.md"
 requires-python = ">=3.9"
-license = { text = "MIT" }
+license = "MIT"
+license-files = ["LICENSE"]
+
 
 [project.scripts]
 linuxcmdscan = "linuxcmdscan.cli:main"
