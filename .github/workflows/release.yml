@@ -5,6 +5,9 @@ on:
     tags:
       - "v*.*.*"
 
+permissions:
+  contents: write   # ← THIS FIXES THE ERROR
+
 jobs:
   release:
     runs-on: ubuntu-latest
