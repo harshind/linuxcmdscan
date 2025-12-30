@@ -1,4 +1,4 @@
-![CI](https://github.com/<YOUR_GITHUB_USERNAME>/linuxcmdscan/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/harshind/linuxcmdscan/actions/workflows/ci.yml/badge.svg)
 ![PyPI](https://img.shields.io/pypi/v/linuxcmdscan)
 ![Python](https://img.shields.io/pypi/pyversions/linuxcmdscan)
 ![License](https://img.shields.io/pypi/l/linuxcmdscan)
